@@ -1,0 +1,1 @@
+* https://carlpaton.github.io/2018/04/c-sharp-enum/
